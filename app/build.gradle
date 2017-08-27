@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "zhuwentao.com.showselectphoto"
+        applicationId "com.zhjh.selectphoto"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
