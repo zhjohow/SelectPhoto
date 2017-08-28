@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">SelectPhotoDemo</string>
-
 
     <!-- 获取图片途径选择popup窗口 -->
     <string name="popup_system_photo">本地图片</string>
